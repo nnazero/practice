@@ -21,8 +21,7 @@
 
 ***
   
-### 프로젝트 폴더 구조👋
-react directory structure
+### 프로젝트 폴더 구조
 
 |Title|Description|
 |-|-|
