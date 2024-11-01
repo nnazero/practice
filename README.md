@@ -31,4 +31,3 @@
 | hooks      | 커스텀 훅(함수)을 위한 폴더                 |
 | pages      | 페이지 jsx 들을 위한 폴더                   |
 | styles     | css style을 정의하기 위한 폴더 (module.css) |
-| .env       | 환경설정을 위한 폴더                        |
