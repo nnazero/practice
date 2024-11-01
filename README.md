@@ -33,12 +33,12 @@
 | styles     | css style을 정의하기 위한 폴더 (module.css) |
 
 ### 코드 컨벤션
-
-폴더 네이밍: 모두 소문자로 통일
-파일명(page, style, components): 파스칼 케이스 ex.PascalCase.jsx / PascalCase.module.css
-hook 파일명: use로 시작하며 카멜 케이스 사용 ex. useProfile.jsx
-image 파일명: 케밥 케이스 사용 ex. back-btn.svg
-props 이름: 카멜 케이스 ex. myProp
-함수 이름: 카멜 케이스 ex. handleSubmit
-이벤트 핸들러: on 또는 handle 접두사 사용 ex. onClick, handleSubmit
+***
+- 폴더 네이밍: 모두 소문자로 통일
+- 파일명(page, style, components): 파스칼 케이스 ex.PascalCase.jsx / PascalCase.module.css
+- hook 파일명: use로 시작하며 카멜 케이스 사용 ex. useProfile.jsx
+- image 파일명: 케밥 케이스 사용 ex. back-btn.svg
+- props 이름: 카멜 케이스 ex. myProp
+- 함수 이름: 카멜 케이스 ex. handleSubmit
+- 이벤트 핸들러: on 또는 handle 접두사 사용 ex. onClick, handleSubmit
 
