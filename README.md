@@ -1,4 +1,5 @@
-## ssoenter-FE
+# ssoenter-FE
+
 
 ### 깃허브 태그명💫
 
@@ -20,15 +21,23 @@
 | Rename          | 파일 혹은 폴더명을 수정하거나 옮기는 작업만인 경우                                            |
 | Remove          | 파일을 삭제하는 작업만 수행한 경우                                                            |
 
+
 ### 프로젝트 폴더 구조📁
 
-| Title      | Description                                 |
-| ---------- | ------------------------------------------- |
-| assets     | 폰트, 이미지를 위한 폴더                    |
-| components | 컴포넌트들 파일들을 위한 폴더               |
-| hooks      | 커스텀 훅(함수)을 위한 폴더                 |
-| pages      | 페이지 jsx 들을 위한 폴더                   |
-| styles     | css style을 정의하기 위한 폴더 (module.css) |
+📦src
+ ┣ 📂assets (폰트, 이미지를 위한 폴더)
+ ┣ 📂axios
+ ┣ 📂components (컴포넌트들 파일들을 위한 폴더)
+ ┣ 📂hooks (커스텀 훅(함수)을 위한 폴더)
+ ┣ 📂pages (페이지 jsx 들을 위한 폴더)
+ ┣ 📂services
+ ┣ 📂styles (css style을 정의하기 위한 폴더 (module.css))
+ ┣ 📂utils
+ ┣ 📜App.css
+ ┣ 📜App.jsx
+ ┣ 📜index.css
+ ┗ 📜main.jsx
+
 
 ### 코드 컨벤션💻
 - 폴더 네이밍: 모두 소문자로 통일
